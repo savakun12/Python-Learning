@@ -33,6 +33,3 @@ Pastikan Anda telah menginstal Python di sistem Anda. Program ini kompatibel den
     ```
 
 4. **Ikuti petunjuk yang diberikan oleh program untuk menebak angka.**
-
-## Contoh
-
